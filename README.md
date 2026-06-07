@@ -22,7 +22,7 @@ Each lab is a self-contained page with a real-world analog drawn from LP portals
 
 ## Labs
 
-### 1. R2 — GP Report Vault
+### 1. R2 | GP Report Vault
 
 **Page:** `/lab/r2-report-vault`
 
@@ -59,7 +59,7 @@ Then list uploaded reports and click to retrieve any one.
 
 ---
 
-### 2. KV — Market Assumptions Cache
+### 2. KV | Market Assumptions Cache
 
 **Page:** `/lab/kv-market-assumptions`
 
@@ -93,7 +93,7 @@ Saved under the key `market-assumptions:base-case`, then retrieved instantly.
 
 ---
 
-### 3. Durable Objects — Live Portfolio Room
+### 3. Durable Objects | Live Portfolio Room
 
 **Page:** `/lab/durable-portfolio-room`
 
@@ -130,7 +130,7 @@ The Durable Object holds and mutates session state across all interactions.
 
 ---
 
-### 4. D1 — LP Commitments Database
+### 4. D1 | LP Commitments Database
 
 **Page:** `/lab/d1-lp-commitments`
 
@@ -175,7 +175,7 @@ The simplest private-markets data model that still feels real: LP → Fund → C
 
 ---
 
-### 5. Queues — Capital Call Processing
+### 5. Queues | Capital Call Processing
 
 **Page:** `/lab/queues-capital-call`
 
