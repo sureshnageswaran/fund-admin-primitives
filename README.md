@@ -256,7 +256,7 @@ Generates a 5-bullet investment memo covering:
 
 ---
 
-### 7. Vectorize — LPA Clause Search
+### 7. Vectorize | LPA Clause Search
 
 **Page:** `/lab/vectorize-lpa-search`
 
