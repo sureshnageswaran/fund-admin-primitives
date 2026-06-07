@@ -1,4 +1,4 @@
-# Cloudflare Primitives Lab | Fund Admin-in-a-Box for Alternative Investments
+# Cloudflare Primitives | Fund Admin-in-a-Box | Alternative Investments
 
 A hands-on lab demonstrating all major Cloudflare Developer Platform primitives through the lens of private markets and alternative investments workflows.
 
